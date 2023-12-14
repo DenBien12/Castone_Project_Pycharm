@@ -1,3 +1,7 @@
 # Castone_Project_Pycharm
 
-This is my Capstone Project
+This is my Capstone Project.
+Collecting pictures of traffic lights is an important endeavor with several significant implications. Firstly, it serves as a valuable resource for traffic engineering and urban planning. These images aid in the analysis of traffic signal configurations, placement, and visibility, enabling experts to optimize traffic light design for safety and efficiency. Secondly, the collection of traffic light images is instrumental in developing computer vision and machine learning algorithms for automated traffic management systems. These systems can recognize and interpret real-time traffic light conditions, contributing to the development of autonomous vehicles and intelligent transportation systems. Lastly, the accumulation of such images is essential for training and testing artificial intelligence models that enhance traffic safety, reduce congestion, and improve overall road management. In summary, collecting pictures of traffic lights plays a pivotal role in modernizing and advancing the field of transportation, ultimately leading to safer, more efficient, and smarter urban environments.
+
+This Capstone project report presents the details of prototype software technology platform ols, in terms of several Python software tools developed as part of this capstone project, based on a data driven scientific approach, involving exploratory data analysis, predictive analytics and implementation as a desktop Tkinter/Streamlit/Flask/… application for traffic light image classification. Rest of the report is organized as follows.
+
